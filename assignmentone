@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-
+<head>
+<title>ASSIGNMENT ONE</title>
+</head>
+<body>
 <h1>PERSONAL INFORMATION</h1>
 <p>Name: Kien Luong
 Preferred Name: Patrick Luong
@@ -18,3 +21,6 @@ As far as cultural identity, my parents would call me Australian but most Austra
 For hobbies I enjoy playing video games, going to the gym, playing guitar, reading and creative writing.
 
 Fun Fact: Have previously competed at a national level at swimming, tennis and most recently video games.</p>
+
+</body>
+</html>
