@@ -1,5 +1,3 @@
-# project-quartet
-S3547090 - Assignment 01
 <!DOCTYPE html>
 <html>
 <body>
